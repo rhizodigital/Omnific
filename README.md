@@ -5,3 +5,6 @@ Website frontend template based on Bootstrap. Many child themes built as a head 
  - Bootstrap
  - jQuery
  - SASS
+
+## Installation
+### Clone Repo
