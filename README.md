@@ -8,3 +8,5 @@ Website frontend template based on Bootstrap. Many child themes built as a head 
 
 ## Installation
 ### Clone Repo
+
+git clone https://github.com/rhizodigital/Omnific.git
